@@ -11,7 +11,7 @@
 - git [ apt-get install git ]
 ### Linux
 
-> git clone https://github.com/CyberUSA/Phone_Parser
+> git clone https://github.com/zeinlol/Phone_Parser
 
 > cd Phone_Parser
 
@@ -19,4 +19,4 @@
 
 > python3 phone_parser.py
 
-<i><a href="https://t.me/blackhat_lab">Подпишись на наш TG канал!</a></i>
+<i><a href="https://t.me/blackhat_lab">Подпишись на TG канал автора</a></i>
